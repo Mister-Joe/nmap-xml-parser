@@ -10,7 +10,7 @@ A tool to parse XML output from Nmap scans & extract/summarize key information. 
 
 ## How does it work?
 
-Using Python and the xml.etree.ElementTree module.
+Using Python and the xml.etree.ElementTree module. There are no special dependencies other than Python 3.2 or above. Simply git clone & you're ready to go.
 
 ## What's next?
 
