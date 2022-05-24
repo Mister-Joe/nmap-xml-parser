@@ -1,5 +1,7 @@
 # nmap-xml-parser
 
+![image](https://user-images.githubusercontent.com/16895391/170116236-45dd3769-fde6-4c28-b879-55072ab39e6b.png)
+
 ## What is it?
 
 A tool to parse XML output from nmap scans & extract/summarize key information.
