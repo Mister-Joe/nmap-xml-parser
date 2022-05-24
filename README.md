@@ -10,8 +10,8 @@ A tool to parse XML output from nmap scans & extract/summarize key information.
 
 ## How does it work?
 
-Using python and the xml.etree.ElementTree module.
+Using Python and the xml.etree.ElementTree module.
 
 ## What's next?
 
-More parsing options need to be added, such as summarizing services per host and so on. At the moment 3 parsing options are available.
+More parsing options need to be added, such as summarizing services and so on. At the moment 3 parsing options are available as shown in the image above.
