@@ -1,6 +1,8 @@
 # nmap-xml-parser
 
-![image](https://user-images.githubusercontent.com/16895391/170116236-45dd3769-fde6-4c28-b879-55072ab39e6b.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/16895391/170116236-45dd3769-fde6-4c28-b879-55072ab39e6b.png"/>
+</p>
 
 ## What is it?
 
