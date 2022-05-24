@@ -6,7 +6,7 @@
 
 ## What is it?
 
-A tool to parse XML output from nmap scans & extract/summarize key information.
+A tool to parse XML output from Nmap scans & extract/summarize key information.
 
 ## How does it work?
 
